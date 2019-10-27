@@ -18,7 +18,7 @@ _There are no known bugs thus far._
 ## Support and contact details
 
 _Please feel free to contact me if you encounter any problems with this webpage at dzhambov@hotmail.com._
-_You can also see it following this link https://github.com/dzhambov/portfolio/tree/gh-pages.
+> _You can also see it following this link https://github.com/dzhambov/portfolio/tree/gh-pages.*_
 
 ## Technology Used
 
