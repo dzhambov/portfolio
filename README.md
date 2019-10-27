@@ -17,8 +17,8 @@ _There are no known bugs thus far._
 
 ## Support and contact details
 
-_Please feel free to contact me if you encounter any problems with this webpage at dzhambov@hotmail.com._..
-_**You can also see it visiting tihs link https://github.com/dzhambov/portfolio/tree/gh-pages**_.
+_Please feel free to contact me if you encounter any problems with this webpage at dzhambov@hotmail.com._
+_You can also see it visiting this link https://github.com/dzhambov/portfolio/tree/gh-pages. _
 ## Technology Used
 
 _To create this page I used HTML, CSS and Bootstrap._
